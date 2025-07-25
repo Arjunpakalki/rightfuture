@@ -5,29 +5,119 @@
   "ampm": "PM",
   "pob": "Alappuzha",
   "gender": "Male",
+  "timeOfBirth": "12:28 PM",
+  "placeOfBirth": "Alappuzha",
   "planetaryPositions": {
     "Sun": "Leo",
-    "Moon": "Scorpio",
-    "Mars": "Gemini",
-    "Mercury": "Cancer",
-    "Jupiter": "Pisces",
+    "Moon": "Gemini",
+    "Mercury": "Leo",
     "Venus": "Virgo",
+    "Mars": "Gemini",
+    "Jupiter": "Aries",
     "Saturn": "Virgo",
-    "Rahu": "Capricorn",
-    "Ketu": "Cancer"
+    "Uranus": "Pisces",
+    "Neptune": "Aquarius",
+    "Pluto": "Capricorn"
   },
-  "summary": "Arjun, born on August 12th, 2010 in Alappuzha, has a unique combination of planetary positions which indicates a dynamic and energetic personality. His Moon in Scorpio signifies emotional intensity and a deep sense of intuition. The influence of Mars in Gemini suggests strong communication skills and a restless energy. Overall, Arjun is likely to be ambitious, passionate, and determined in achieving his goals.",
+  "summary": "Arjun is born with a strong Leo influence with Sun and Mercury in Leo, indicating leadership qualities, creativity, and a strong sense of identity. Jupiter in Aries enhances his drive for success and exploration. The Gemini Moon and Mars placement make him adaptable, communicative, and intellectually curious. Arjun is likely to have a dynamic and expressive personality with a mix of confidence and versatility.",
   "personalityTraits": [
-    "Ambitious",
-    "Passionate",
-    "Communicative",
-    "Determined"
+    "Confident",
+    "Creative",
+    "Adaptable",
+    "Intellectually curious"
   ],
-  "careerOutlook": "In terms of career, Arjun is likely to excel in fields that require strong communication skills, strategic thinking, and problem-solving abilities. His ambition and determination will drive him towards success, especially in roles that allow him to take on leadership positions and showcase his creative thinking.",
-  "relationships": "In relationships, Arjun may be intense and passionate, seeking deep emotional connections with his loved ones. His strong communication skills and determination can make him a supportive and reliable partner, but he may need to work on balancing his intensity with patience and understanding.",
-  "health": "Arjun's health may be generally good, but he should be mindful of his energy levels and stress levels. His dynamic and energetic nature may lead to burnout if he doesn't take time to rest and recharge. Regular exercise, a balanced diet, and stress-management techniques will be beneficial for maintaining his overall well-being.",
+  "careerOutlook": "Arjun's astrological chart suggests that he would excel in roles that require creativity, leadership, and communication skills. Fields like marketing, entrepreneurship, or creative arts could be promising career paths for him. His determined nature and ability to adapt quickly to changing situations will be assets in his professional life.",
+  "relationships": "In relationships, Arjun is likely to be charming, communicative, and emotionally expressive. He values intellectual stimulation and open communication in his relationships. However, he may need to work on balancing his strong need for independence with the need for emotional closeness in his personal connections.",
+  "health": "Arjun should pay attention to his mental well-being as the strong Leo influence can sometimes lead to self-criticism and a need for validation from others. Regular physical exercise and mindfulness practices will help him maintain a healthy balance between his physical and mental health.",
   "remedies": [
-    "Performing regular prayers and meditation",
-    "Wearing gemstones like ruby for Sun and moonstone for Moon"
+    "Wearing a ruby gemstone to enhance his leadership qualities"
+  ],
+  "kundaliniChart": [
+    {
+      "house": 1,
+      "sign": "Leo",
+      "planets": [
+        "Sun",
+        "Mercury"
+      ]
+    },
+    {
+      "house": 2,
+      "sign": "Virgo",
+      "planets": [
+        "Venus",
+        "Saturn"
+      ]
+    },
+    {
+      "house": 3,
+      "sign": "Libra"
+    },
+    {
+      "house": 4,
+      "sign": "Scorpio"
+    },
+    {
+      "house": 5,
+      "sign": "Sagittarius"
+    },
+    {
+      "house": 6,
+      "sign": "Capricorn",
+      "planets": [
+        "Pluto"
+      ]
+    },
+    {
+      "house": 7,
+      "sign": "Aquarius",
+      "planets": [
+        "Neptune"
+      ]
+    },
+    {
+      "house": 8,
+      "sign": "Pisces",
+      "planets": [
+        "Uranus"
+      ]
+    },
+    {
+      "house": 9,
+      "sign": "Aries",
+      "planets": [
+        "Jupiter"
+      ]
+    },
+    {
+      "house": 10,
+      "sign": "Taurus"
+    },
+    {
+      "house": 11,
+      "sign": "Gemini",
+      "planets": [
+        "Moon",
+        "Mars"
+      ]
+    },
+    {
+      "house": 12,
+      "sign": "Cancer"
+    }
+  ],
+  "dashaPeriods": [
+    {
+      "dasha": "Ketu",
+      "start": "2010-08-12",
+      "end": "2027-08-11",
+      "summary": "During the Ketu period, Arjun may experience a strong focus on spiritual growth and introspection. It is a time for inner reflection and connecting with his higher self."
+    },
+    {
+      "dasha": "Venus",
+      "start": "2027-08-12",
+      "end": "2047-08-12",
+      "summary": "The Venus period will bring opportunities for love, creativity, and material pleasures. Arjun may find significant growth and fulfillment in his relationships and artistic pursuits during this period."
+    }
   ]
 }
