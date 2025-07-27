@@ -1,0 +1,147 @@
+{
+  "name": "Abhilash P G",
+  "dob": "1978-03-23",
+  "tob": "5.30",
+  "ampm": "AM",
+  "pob": "Cherthala",
+  "gender": "Male",
+  "timeOfBirth": "05:30 AM",
+  "placeOfBirth": "Cherthala",
+  "planetaryPositions": {
+    "Sun": "Aries",
+    "Moon": "Libra",
+    "Mercury": "Pisces",
+    "Venus": "Taurus",
+    "Mars": "Pisces",
+    "Jupiter": "Cancer",
+    "Saturn": "Leo",
+    "Rahu": "Gemini",
+    "Ketu": "Sagittarius"
+  },
+  "summary": "Abhilash P G is a strong-willed individual with natural leadership abilities. He possesses a creative and innovative mind, along with a deep sense of compassion and empathy. His emotional intelligence allows him to connect with others on a profound level, making him a highly valued friend and partner. However, he may struggle with indecisiveness at times, and should work on enhancing his self-confidence.",
+  "personalityTraits": [
+    "Strong-willed",
+    "Creative",
+    "Empathetic",
+    "Indecisive",
+    "Compassionate"
+  ],
+  "careerOutlook": "In terms of career, Abhilash P G is likely to excel in roles that allow him to showcase his creativity and compassion. He may find success in the fields of art, design, counseling, or psychology. His natural leadership skills could also lead him to a managerial position, where he can inspire and motivate others to achieve their goals.",
+  "relationships": "Abhilash P G values deep and meaningful connections in his relationships. He is a loyal and supportive partner who prioritizes open communication and emotional intimacy. However, his fear of rejection may sometimes hinder his ability to fully express his emotions. With patience and understanding, he can cultivate strong and lasting relationships.",
+  "health": "Abhilash P G's health is generally good, but he may be prone to stress-related issues due to his sensitive nature. It is important for him to prioritize self-care practices such as meditation, yoga, and regular exercise to maintain physical and mental well-being. He should also pay attention to his diet and ensure he gets enough rest.",
+  "remedies": [
+    "Practicing daily meditation",
+    "Wearing a ruby gemstone for enhanced confidence",
+    "Regularly reciting the Gayatri mantra for mental clarity"
+  ],
+  "kundaliniChart": [
+    {
+      "house": 1,
+      "sign": "Aries",
+      "planets": [
+        "Sun",
+        "Mars"
+      ]
+    },
+    {
+      "house": 2,
+      "sign": "Taurus",
+      "planets": [
+        "Venus"
+      ]
+    },
+    {
+      "house": 3,
+      "sign": "Gemini",
+      "planets": [
+        "Rahu"
+      ]
+    },
+    {
+      "house": 4,
+      "sign": "Cancer",
+      "planets": []
+    },
+    {
+      "house": 5,
+      "sign": "Leo",
+      "planets": [
+        "Saturn"
+      ]
+    },
+    {
+      "house": 6,
+      "sign": "Virgo",
+      "planets": []
+    },
+    {
+      "house": 7,
+      "sign": "Libra",
+      "planets": [
+        "Moon"
+      ]
+    },
+    {
+      "house": 8,
+      "sign": "Scorpio",
+      "planets": []
+    },
+    {
+      "house": 9,
+      "sign": "Sagittarius",
+      "planets": [
+        "Ketu"
+      ]
+    },
+    {
+      "house": 10,
+      "sign": "Capricorn",
+      "planets": []
+    },
+    {
+      "house": 11,
+      "sign": "Aquarius",
+      "planets": []
+    },
+    {
+      "house": 12,
+      "sign": "Pisces",
+      "planets": [
+        "Mercury",
+        "Mars"
+      ]
+    }
+  ],
+  "dashaPeriods": [
+    {
+      "dasha": "Ketu",
+      "start": "1978-03-23",
+      "end": "1995-03-23",
+      "summary": "During this period, Abhilash P G may experience a strong spiritual awakening and a desire for introspection. It is a time for self-discovery and breaking free from past limitations."
+    },
+    {
+      "dasha": "Venus",
+      "start": "1995-03-23",
+      "end": "2015-03-23",
+      "summary": "The Venus dasha brings harmony and balance to Abhilash P G's life. He may find success in creative pursuits and experience growth in his relationships."
+    },
+    {
+      "dasha": "Sun",
+      "start": "2015-03-23",
+      "end": "2021-03-23",
+      "summary": "The Sun dasha boosts Abhilash P G's confidence and leadership abilities. He may take on new challenges and opportunities for personal growth."
+    },
+    {
+      "dasha": "Moon",
+      "start": "2021-03-23",
+      "end": "2031-03-23",
+      "summary": "The Moon dasha enhances Abhilash P G's emotional sensitivity and intuition. He may deepen his connections with others and explore his creative side."
+    },
+    {
+      "dasha": "Mars",
+      "start": "2031-03-23",
+      "end": "2040-03-23",
+      "summary": "The Mars dasha energizes Abhilash P G's drive and ambition. He may embark on new projects and initiatives that require determination and focus."
+    }
+  ]
+}
